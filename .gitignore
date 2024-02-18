@@ -50,4 +50,5 @@
 **/volumes/node
 **/vol
 **/output
+**/result
 Makefile
