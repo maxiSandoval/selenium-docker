@@ -1,0 +1,11 @@
+{
+    "firstName": "michael",
+    "lastName": "john",
+    "email" : "m@popo.cl",
+    "password" : "mj",
+    "street" : "123 main street",
+    "city" : "atlanta",
+    "zip" : "333",
+    "passengersCount" : "1",
+    "expectedPrice" : "$584 USD"
+}
