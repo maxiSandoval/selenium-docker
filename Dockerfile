@@ -9,6 +9,7 @@ WORKDIR /home/selenium-docker
 # add the required files
 ADD target/docker-resources ./
 ADD runner.sh               runner.sh
+RUN dos2unix                runner.sh
 
 # Enviroment Variables
 # BROWSER
